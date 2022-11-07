@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":458}
+{"id":1,"expanded":true,"name":"GrassRoad","order":1,"parentId":0,"scrollX":819,"scrollY":458},
+{"id":2,"expanded":true,"name":"DirtRoad","order":2,"parentId":1,"scrollX":1447,"scrollY":458},
+{"id":3,"expanded":false,"name":"SnowRoad","order":3,"parentId":1,"scrollX":1447,"scrollY":458},
+{"id":4,"expanded":false,"name":"StartMap","order":4,"parentId":0,"scrollX":819,"scrollY":466}
 ]
