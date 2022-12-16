@@ -479,8 +479,8 @@
        
         var sX = 0,
             sY = 0,
-            sW = (maxWidth/3),
-            sH = (maxHeight/3)*2;
+            sW = (maxWidth/6),
+            sH = (maxHeight/2)*2;
         this._selectionWindow = new Window_BeastBook_Selection(sX, sY, sW, sH);
        
         var eX = sX,
